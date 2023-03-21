@@ -1,9 +1,5 @@
 public class Main {
 
-/*	Utku Murat Atasoy / 211401019
-	Yapay Zeka Muhendisligi	
- */
-
 	public static void main(String[] args) {
 		Main baslat = new Main();
 		baslat.tahtayiOlusturVeHamleleriAl();
