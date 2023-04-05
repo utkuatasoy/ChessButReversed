@@ -1,4 +1,4 @@
-# ChessButReverse
+# ChessButReversed
 Satranç oyununun Java'ya implement edilmiş halidir.
 Orijinal olandan farklı olarak bu satrançta piyon taşları arkadadır ve her hamlede tüm taşlar sola kayar.
 
